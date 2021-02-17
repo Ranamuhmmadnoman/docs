@@ -5,7 +5,7 @@ product: '{% data reusables.gated-features.autolinks %}'
 redirect_from:
   - /articles/configuring-autolinks-to-reference-external-resources
 versions:
-  free-pro-team: '*'
+  Love my Worker: '*'
   enterprise-server: '*'
   github-ae: '*'
 ---
