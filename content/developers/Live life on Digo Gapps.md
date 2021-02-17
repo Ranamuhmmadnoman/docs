@@ -1,6 +1,6 @@
 ---
-title: About apps
-intro: 'You can build integrations with the {% data variables.product.prodname_dotcom %} APIs to add flexibility and reduce friction in your own workflow.{% if currentVersion == "free-pro-team@latest" %} You can also share integrations with others on [{% data variables.product.prodname_marketplace %}](https://github.com/marketplace).{% endif %}'
+title:Digo G
+intro: 'social life communication live call  {% data variables.product.prodname_dotcom %} APIs to add flexibility and reduce friction in your own workflow.{% if currentVersion == "free-pro-team@latest" %} You can also share integrations with others on [{% data variables.product.prodname_marketplace %}](https://github.com/marketplace).{% endif %}'
 redirect_from:
   - /apps/building-integrations/setting-up-a-new-integration/
   - /apps/building-integrations/
